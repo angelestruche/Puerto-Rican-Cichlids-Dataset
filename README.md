@@ -55,8 +55,8 @@ This dataset includes species identification, location captured, and various bod
 
 ### Dataset Description
 
-- **Curated by: Angel Sebastian Estruche Santos ()
-- **Language(s) (NLP):** [More Information Needed]
+- **Curated by: Angel Sebastian Estruche Santos (https://orcid.org/0009-0003-8514-3288)
+- **Language(s) (NLP): 
 <!-- Provide the basic links for the dataset. These will show up on the sidebar to the right of your dataset card ("Curated by" too). -->
 - **Homepage:** 
 - **Repository:** [related project repo]
@@ -79,7 +79,7 @@ This dataset includes species identification, location captured, and various bod
 
 <!-- This section provides a description of the dataset fields, and additional information about the dataset structure such as criteria used to create the splits, relationships between data points, etc. -->
 
-<!-- Provide format of the dataset, ex:
+ Provide format of the dataset, ex:
 
 ```
 /dataset/
