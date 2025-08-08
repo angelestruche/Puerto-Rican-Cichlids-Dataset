@@ -101,9 +101,20 @@ This dataset includes species identification, location captured, and various bod
         <img_id n>.png
     metadata.csv
 ```
-
--->
-
+| Image          | Species        | Total Length (cm) | mouth width (mm) | weight (g) | color morph|  
+| -------------- | -------------- |-------------- | -------------- | -------------- | -------------- |
+| ![](images/IMG_7820.jpeg) |     |
+| ![](images/IMG_7821.jpeg) |     |
+| ![](images/IMG_7822.jpeg) |     |
+| ![](images/IMG_7823.jpeg) |
+| ![](images/IMG_7826.jpeg) |
+| ![](images/IMG_7828.jpeg) |
+| ![](images/IMG_7829.jpeg) |
+| ![](images/IMG_7830.jpeg) |
+| ![](images/IMG_7832.jpeg) |
+| ![](images/IMG_7833.jpeg) |
+| ![](images/IMG_7834.jpeg) |
+| ![](images/IMG_7835.jpeg) |
 ### Data Instances
 [More Information Needed]
 
