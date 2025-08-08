@@ -5,7 +5,9 @@ language:
 pretty_name: 
 - Puerto Rican Cichlids Dataset # (PRCD)
 task_categories:
-- image-classification 
+- image-classification
+- image-segmentation
+  
 tags:
 - fish
 - cichlids 
