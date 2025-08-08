@@ -81,28 +81,9 @@ This dataset includes species identification, location captured, and various bod
 
  Provide format of the dataset, ex:
 
-```
-/dataset/
-    <species_1>/
-        <img_id 1>.png
-        <img_id 2>.png
-        ...
-        <img_id n>.png
-    <species_2>/
-        <img_id 1>.png
-        <img_id 2>.png
-        ...
-        <img_id n>.png
-    ...
-    <species_N>/
-        <img_id 1>.png
-        <img_id 2>.png
-        ...
-        <img_id n>.png
-    metadata.csv
-```
-| Image          | Species        | Total Length (cm) | mouth width (mm) | weight (g) | color morph|  
-| -------------- | -------------- |-------------- | -------------- | -------------- | -------------- |
+
+| Image          | Species        | Location | Total Length (cm) | mouth width (mm) | weight (g) | color morph| 
+| -------------- | -------------- |-------------- | -------------- | -------------- | -------------- | -------------- |
 | ![](images/IMG_7820.jpeg) |     |
 | ![](images/IMG_7821.jpeg) |     |
 | ![](images/IMG_7822.jpeg) |     |
@@ -115,6 +96,8 @@ This dataset includes species identification, location captured, and various bod
 | ![](images/IMG_7833.jpeg) |
 | ![](images/IMG_7834.jpeg) |
 | ![](images/IMG_7835.jpeg) |
+
+
 ### Data Instances
 [More Information Needed]
 
