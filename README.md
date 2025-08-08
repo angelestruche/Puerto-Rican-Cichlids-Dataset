@@ -13,6 +13,7 @@ tags:
 - image
 - animals
 - CV
+- morphology 
 size_categories: 
 - n<1K
 ---
@@ -48,7 +49,6 @@ Escape underscores ("_") with a "\". Example: image\_RGB
 # Dataset Card for Puerto Rican Cichlids Dataset
 
 This dataset is a recollection of images of cichlid fish established across Puerto Rican reservoirs and streams. Its purpose is to document, identify, and collect allometric and morphometric data from various cichlid species of different sizes on the island. 
-<!-- Provide a quick summary of what the dataset is or can be used for. --> 
 
 ## Dataset Details
 This dataset includes species identification, location captured, and various body measurements. 
