@@ -1,1 +1,7 @@
-
+Image: The name of the image. (ex. IMAGE_7820.jpeg, etc.) 
+Species: The species of cichlid captured. (ex. Amphilophus spp., Oreochromis spp., Coptodon spp., etc.) 
+Location: The type of lotic or lentic environment where the cichlid was captured. (ex. retention pond, overflow dam, river, etc.) 
+Total Length: The complete measurement of each fish in centimeters from the tip of the snout to the end of the caudal fin (cm).  
+Mouth width: The measurement of the size of the fish's mouth from side to side in millimeters (mm). 
+Weight: The weight of the fish captured in grams (g). 
+Color morph: The color morphology of the fish captured. This can vary according to species. (ex. Amphilophus spp. have normal, golden, or transitional color morphs, while Coptodon spp. have distinct coloration.
