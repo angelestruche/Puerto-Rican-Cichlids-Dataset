@@ -65,14 +65,10 @@ This dataset includes species identification, location captured, and various bod
 - **Paper:** 
 
 
-<!-- Provide a longer summary of what this dataset is. -->
-[More Information Needed]
-
 <!--This dataset card aims to be a base template for new datasets. It has been generated using [this raw template](https://github.com/huggingface/huggingface_hub/blob/main/src/huggingface_hub/templates/datasetcard_template.md?plain=1), and further altered to suit Imageomics Institute needs.-->
 
 
 ### Supported Tasks and Leaderboards
-[More Information Needed]
 
 <!-- Provide benchmarking results -->
 
@@ -102,29 +98,12 @@ This dataset includes species identification, location captured, and various bod
 
 
 ### Data Instances
-[More Information Needed]
 
-<!--
-Describe data files
-
-Ex: All images are named <img_id>.png, each within a folder named for the species. They are 1024 x 1024, and the color has been standardized using <link to color standardization package>.
--->
+All images are named IMG_XXXX.jpeg within different folders. They are 4032 × 3024 pixels approximatly, the image DPI 72 pixels/inch, color model RGB, and color sync profile is sRGB IEC61966-2.1. The image name corresponds to the observations within the data files. 
 
 ### Data Fields
-[More Information Needed]
 
-[View Metadata CSV](./metadata.csv)
-<!--
-Describe the types of the data files or the columns in a CSV with metadata.
-
-Ex: 
-**metadata.csv**:
-  - `img_id`: Unique identifier for the dataset. 
-  - `specimen_id`: ID of specimen in the image, provided by museum data source. There are multiple images of a single specimen.
-  - `species`: Species of the specimen in the image. There are N different species of <genus> of <animal>.
-  - `view`: View of the specimen in the image (e.g., `ventral` or `dorsal` OR `top` or `bottom`, etc.; specify options where reasonable).
-  - `file_name`: Relative path to image from the root of the directory (`<species>/<img_id>.png`); allows for image to be displayed in the dataset viewer alongside its associated metadata.
--->
+[View Metadata CSV](./metadata.csv) 
 
 ### Data Splits
 [More Information Needed]
@@ -135,26 +114,22 @@ Give your train-test splits for benchmarking; could be as simple as "split is in
 ## Dataset Creation
 
 ### Curation Rationale
-[More Information Needed]
 
 This database was created to compare the development and traits of cichlids within Puerto Rican Freshwater bodies.
 
 ### Source Data
 
-<!-- This section describes the source data (e.g., news text and headlines, social media posts, translated sentences, ...). As well as an original source it was created from (e.g., sampling from Zenodo records, compiling images from different aggregators, etc.) -->
+Sampling from the Aquatic Ecology Laboratory at the University of Puerto Rico, Rio Piedras Campus/ 
 
 #### Data Collection and Processing
-[More Information Needed]
+
 <!-- This section describes the data collection and processing process such as data selection criteria, filtering and normalization methods, re-sizing of images, tools and libraries used, etc. 
 This is what _you_ did to it following collection from the original source; it will be overall processing if you collected the data initially.
 -->
 
 #### Who are the source data producers?
-[More Information Needed]
-<!-- This section describes the people or systems who originally created the data.
 
-Ex: This dataset is a collection of images taken of the butterfly collection housed at the Ohio State University Museum of Biological Diversity. The associated labels and metadata are the information provided with the collection from biologists that study butterflies and supplied the specimens to the museum.
- -->
+This dataset is a collection of images taken from various freshwater environments in Puerto Rico. The associated labels and metadata are the information provided by the students that collected the fish. 
 
 
 ### Annotations
@@ -164,37 +139,38 @@ If the dataset contains annotations which are not part of the initial data colle
 Ex: We standardized the taxonomic labels provided by the various data sources to conform to a uniform 7-rank Linnean structure. (Then, under annotation process, describe how this was done: Our sources used different names for the same kingdom (both _Animalia_ and _Metazoa_), so we chose one for all (_Animalia_). -->
 
 #### Annotation process
-[More Information Needed]
+
 <!-- This section describes the annotation process such as annotation tools used, the amount of data annotated, annotation guidelines provided to the annotators, interannotator statistics, annotation validation, etc. -->
 
 #### Who are the annotators?
-[More Information Needed]
+
 <!-- This section describes the people or systems who created the annotations. -->
 
 ### Personal and Sensitive Information
-[More Information Needed]
+
 <!-- 
 For instance, if your data includes people or endangered species. -->
 
 
 ## Considerations for Using the Data
-[More Information Needed]
+
 <!--
 Things to consider while working with the dataset. For instance, maybe there are hybrids and they are labeled in the `hybrid_stat` column, so to get a subset without hybrids, subset to all instances in the metadata file such that `hybrid_stat` is _not_ "hybrid".
 -->
 
 ### Bias, Risks, and Limitations
-[More Information Needed]
+
 <!-- This section is meant to convey both technical and sociotechnical limitations. Could also address misuse, malicious use, and uses that the dataset will not work well for.-->
 
 <!-- For instance, if your data exhibits a long-tailed distribution (and why). -->
 
 ### Recommendations
-[More Information Needed]
+
 <!-- This section is meant to convey recommendations with respect to the bias, risk, and technical limitations. -->
 
 ## Licensing Information
-[More Information Needed]
+
+
 
 <!-- See notes at top of file about selecting a license. 
 If you choose CC0: This dataset is dedicated to the public domain for the benefit of scientific pursuits. We ask that you cite the dataset and journal paper using the below citations if you make use of it in your research.
