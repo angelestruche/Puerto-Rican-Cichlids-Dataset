@@ -57,7 +57,7 @@ This dataset includes species identification, location captured, and various bod
 
 ### Dataset Description
 
-- **Curated by: Angel Sebastian Estruche Santos [![ORCID](https://orcid.org/sites/default/files/images/orcid_24x24.png)](https://orcid.org/my-orcid?orcid=0009-0003-8514-3288)
+- **Curated by: Angel Sebastian Estruche Santos [![ORCID](https://orcid.org/sites/default/files/images/orcid_24x24.png)](https://orcid.org/my-orcid?orcid=0009-0003-8514-3288),
 - **Language(s) (NLP): 
 <!-- Provide the basic links for the dataset. These will show up on the sidebar to the right of your dataset card ("Curated by" too). -->
 - **Homepage:** 
@@ -100,6 +100,7 @@ This dataset includes species identification, location captured, and various bod
 | ![](images/IMG_7835.jpeg) |
 | ... || ... || ... || ... || ... || ... |
 
+[View Metadata CSV](./metadata.csv)
 
 ### Data Instances
 [More Information Needed]
