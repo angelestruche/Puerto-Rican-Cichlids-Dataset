@@ -57,7 +57,7 @@ This dataset includes species identification, location captured, and various bod
 
 ### Dataset Description
 
-- **Curated by: Angel Sebastian Estruche Santos [![ORCID](https://orcid.org/sites/default/files/images/orcid_24x24.png)](https://orcid.org/my-orcid?orcid=0009-0003-8514-3288),
+- **Curated by: Angel Sebastian Estruche Santos [![ORCID](https://orcid.org/sites/default/files/images/orcid_24x24.png)](https://orcid.org/my-orcid?orcid=0009-0003-8514-3288), Omar Perez-Reyes, and Alba Viruet. 
 - **Language(s) (NLP): 
 <!-- Provide the basic links for the dataset. These will show up on the sidebar to the right of your dataset card ("Curated by" too). -->
 - **Homepage:** 
@@ -100,7 +100,6 @@ This dataset includes species identification, location captured, and various bod
 | ![](images/IMG_7835.jpeg) |
 | ... || ... || ... || ... || ... || ... |
 
-[View Metadata CSV](./metadata.csv)
 
 ### Data Instances
 [More Information Needed]
@@ -113,6 +112,8 @@ Ex: All images are named <img_id>.png, each within a folder named for the specie
 
 ### Data Fields
 [More Information Needed]
+
+[View Metadata CSV](./metadata.csv)
 <!--
 Describe the types of the data files or the columns in a CSV with metadata.
 
@@ -135,7 +136,8 @@ Give your train-test splits for benchmarking; could be as simple as "split is in
 
 ### Curation Rationale
 [More Information Needed]
-<!-- Motivation for the creation of this dataset. For instance, what you intended to study and why that required curation of a new dataset (or if it's newly collected data and why the data was collected (intended use)), etc. -->
+
+This database was created to compare the development and traits of cichlids within Puerto Rican Freshwater bodies.
 
 ### Source Data
 
@@ -244,9 +246,9 @@ If you want to include BibTex, replace "<>"s with your info
   author = {Angel S. Estruche Santos},
   title = {Puerto Rican Cichlids Dataset},
   year = {2025},
-  url = {https://huggingface.co/datasets/imageomics/<dataset_name>},
+  url = {https://github.com/angelestruche/Puerto-Rican-Cichlids-Dataset/tree/main},
   doi = {<doi once generated>},
-  publisher = {Hugging Face}
+  publisher = {GitHub}
 }
 <!---
 If the data is modified from another source, add the following. 
