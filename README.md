@@ -240,6 +240,14 @@ If you want to include BibTex, replace "<>"s with your info
 ```
 -->
 
+@misc{puerto_rican_cichlids_2025,
+  author = {Angel S. Estruche Santos},
+  title = {Puerto Rican Cichlids Dataset},
+  year = {2025},
+  url = {https://huggingface.co/datasets/imageomics/<dataset_name>},
+  doi = {<doi once generated>},
+  publisher = {Hugging Face}
+}
 <!---
 If the data is modified from another source, add the following. 
 
@@ -264,9 +272,13 @@ This work was supported by the [Imageomics Institute](https://imageomics.org), w
 
 ## Dataset Card Authors 
 
+
+
 [More Information Needed]
 
 ## Dataset Card Contact
+
+Corresponding Author: angel.estruche@upr.edu 
 
 [More Information Needed--optional]
 <!-- Could include who to contact with questions, but this is also what the "Discussions" tab is for. -->
