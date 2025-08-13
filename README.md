@@ -106,7 +106,7 @@ All images are named IMG_XXXX.jpeg within different folders. They are 4032 × 30
 [View Metadata CSV](./metadata.csv) 
 
 ### Data Splits
-[More Information Needed]
+
 <!--
 Give your train-test splits for benchmarking; could be as simple as "split is indicated by the `split` column in the metadata file: `train`, `val`, or `test`." Or perhaps this is just the training dataset and other datasets were used for testing (you may indicate which were used).
 -->
@@ -186,7 +186,6 @@ This dataset (the compilation) has been marked as dedicated to the public domain
 -->
 
 ## Citation
-[More Information Needed]
 
 **BibTeX:**
 <!--
@@ -258,5 +257,4 @@ This work was supported by the [Imageomics Institute](https://imageomics.org), w
 
 Corresponding Author: angel.estruche@upr.edu 
 
-[More Information Needed--optional]
 <!-- Could include who to contact with questions, but this is also what the "Discussions" tab is for. -->
